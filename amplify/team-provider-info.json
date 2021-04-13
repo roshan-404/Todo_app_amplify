@@ -1,0 +1,26 @@
+{
+    "vscode": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reacttodo-vscode-200338-authRole",
+            "UnauthRoleArn": "arn:aws:iam::924762427312:role/amplify-reacttodo-vscode-200338-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::924762427312:role/amplify-reacttodo-vscode-200338-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-reacttodo-vscode-200338-deployment",
+            "UnauthRoleName": "amplify-reacttodo-vscode-200338-unauthRole",
+            "StackName": "amplify-reacttodo-vscode-200338",
+            "StackId": "arn:aws:cloudformation:ap-south-1:924762427312:stack/amplify-reacttodo-vscode-200338/98388650-9940-11eb-9047-028b6d259f0c",
+            "AmplifyAppId": "d1zyy79w59ge8k"
+        },
+        "categories": {
+            "auth": {
+                "reacttodo46f16410": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1zyy79w59ge8k",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
